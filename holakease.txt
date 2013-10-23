@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 hola
+=======
+asdfasdffasf
+as
+df
+asdf
+asd
+a
+sfd
+
+>>>>>>> da9ab21bfa15e0f4ba8ea276b995ff0e6a3464f3
